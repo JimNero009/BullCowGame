@@ -1,0 +1,10 @@
+ant
+bat
+cat
+get
+hit
+mob
+wad
+dot
+fad
+top
